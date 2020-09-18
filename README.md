@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My name is Hao Qin and I'm a software engineer! 
 <a href="https://www.linkedin.com/in/haoq96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="haoqin" height="20" width="20" /></a>
 
-👨‍💻 I've spent a good amount of time woking on back-end and front-end engineering, mostly building features and taking care of architectures for client facing products and enterprise software.
+👨‍💻 I've spent a good amount of time woking on back-end and front-end engineering, mostly building features and taking care of architectures for server-side products and enterprise software.
 
 ### 🏢 Internship
 
