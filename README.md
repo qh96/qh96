@@ -28,7 +28,7 @@ My name is Hao Qin and I'm a software engineer!
 
 ### 🧩 Most Recent Project
 
-💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code repository published on Github has more than 2k visitors, 172 unique clones and **82 stars**.
+💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code [repository](https://github.com/qh96/tacocat) published on Github has more than 2k visitors, 172 unique clones and **82 stars**.
 
 ### 🔧 Technologies I'm passionate about
 
