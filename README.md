@@ -18,19 +18,17 @@ Here are some ideas to get you started:
 ## Hey there 👋
 
 My name is Hao Qin and I'm a software engineer! 
-
 <a href="https://www.linkedin.com/in/haoq96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="haoqin" height="20" width="20" /></a>
-
 
 👨‍💻 I've spent a good amount of time woking on back-end and front-end engineering, mostly building features and taking care of architectures for client facing products and enterprise software.
 
 ### 🏢 Internship
 
-🌏I used to be an SWE intern at **[Tencent](https://github.com/Tencent)**. It is the biggest video game company in the world and one of top-2 tech companies in China (top-10 in the world). It has many well-known products like **Wechat**, QQ, League of Legend, etc. I did research on the refactor plan the API Gateway to handle a new coming **200M** daily requests and developed the new architecture of API Gateway using **Java and Spring**, resulting in **90.7%** throughput improvement.
+🌏 I used to be an SWE intern at **[Tencent](https://github.com/Tencent)**, the biggest video game company in the world and one of the top-2 tech companies in China, owning many well-known products like **Wechat**, QQ, League of Legend, etc. During the internship, I did research on the refactor plan the API Gateway to handle a new coming **200M** daily requests and developed the new architecture of API Gateway using **Java and Spring**, resulting in **90.7%** throughput improvement.
 
-### 🏢 Recent Project
+### 🧩 Most Recent Project
 
-💚 My recent project was a [job site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332** visitors in total and **500+** avg. visitors every day. The source code repository published on Github has more than 2k visitors, 172 unique clones and **81 stars**.
+💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code repository published on Github has more than 2k visitors, 172 unique clones and **82 stars**.
 
 ### 🔧 Technologies I'm passionate about
 
