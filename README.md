@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/DawChihLiou/DawChihLiou/master/hero.png "Header")](https://dawchihliou.github.io/)
+[![Header](hero.png "Header")](https://dawchihliou.github.io/)
 
 ## Hey there 👋
 
