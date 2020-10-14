@@ -24,11 +24,11 @@ My name is Hao Qin and I'm a software engineer!
 
 ### 🏢 Internship
 
-🌏 I used to be an SWE intern at **[Tencent](https://github.com/Tencent)**, the biggest video game company in the world and one of the top-2 tech companies in China, owning many well-known products like **Wechat**, QQ, League of Legend, etc. During the internship, I did research on the refactor plan the API Gateway to handle a new coming **200M** daily requests and developed the new architecture of API Gateway using **Java and Spring**, resulting in **90.7%** throughput improvement.
+🌏 I used to be an SWE intern at **[Tencent](https://github.com/Tencent)**, the biggest video game company in the world and one of the top-2 tech companies in China, owning many well-known products like **Wechat** and QQ. During the internship, I did research on the refactor plan the API Gateway to handle a new coming **200M** daily requests and developed a new architecture of API Gateway using **Java and Spring**, resulting in **90.7%** throughput improvement.
 
 ### 🧩 Most Recent Project
 
-💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code [repository](https://github.com/qh96/tacocat) published on Github has more than 2k visitors, 172 unique clones and **82 stars**.
+💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code [repository](https://github.com/qh96/tacocat) published on Github has more than 2k visitors, 172 unique clones and **84 stars**.
 
 ### 📄 Resume
 Here is my [resume](https://drive.google.com/file/d/1W34AQDV3mlir6chF67ZVOhcVAJHzZ_TX/view?usp=sharing)!
