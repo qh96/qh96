@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 My name is Hao Qin and I'm a software engineer! 
 <a href="https://www.linkedin.com/in/haoq96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="haoqin" height="20" width="20" /></a>
 
-👨‍💻 I've spent a good amount of time woking on back-end engineering, mostly building features and taking care of architectures for server-side products and enterprise software.
-
-### 🏢 Internship
-
-🌏 I used to be an SWE intern at **[Tencent](https://github.com/Tencent)**, the biggest video game company in the world and one of the top-2 tech companies in China, owning many well-known products like **Wechat** and QQ. During the internship, I did research on the refactor plan the API Gateway to handle a new coming **200M** daily requests and developed a new architecture of API Gateway using **Java and Spring**, resulting in **90.7%** throughput improvement.
-
-### 🧩 Most Recent Project
-
-💚 My recent project was a [Job Site](https://eattacocat.herokuapp.com/) consolidates all the new graduate career resources from LinkedIn and Indeed. Now it has **29,332 visitors** in total and **500+** avg. visitors every day. The source code [repository](https://github.com/qh96/tacocat) published on Github has more than 2k visitors, 172 unique clones and **84 stars**.
-
 ### 📄 Resume
 Here is my [resume](https://drive.google.com/file/d/1HSzxgPEUGuAuzaRQrVehXqPmg4tWi3Sk/view?usp=sharing)!
 
