@@ -21,7 +21,7 @@ My name is Hao Qin and I'm a software engineer!
 <a href="https://www.linkedin.com/in/haoq96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="haoqin" height="20" width="20" /></a>
 
 ### 📄 Resume
-Here is my [resume](https://drive.google.com/file/d/1HSzxgPEUGuAuzaRQrVehXqPmg4tWi3Sk/view?usp=sharing)!
+Here is my [resume]()!
 
 ### 🔧 Technologies I'm passionate about
 
