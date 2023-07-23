@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 -->
 [![Header](hero.png "Header")]()
 
-## Hey there 👋
-
-My name is Hao Qin and I'm a software engineer! 
-<a href="https://www.linkedin.com/in/haoq96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="haoqin" height="20" width="20" /></a>
-
-### 📄 Resume
-Here is my [resume]()!
-
 ### 🔧 Technologies I'm passionate about
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=121212&color=007396)
